@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Efrain188
-- 👀 I’m interested in Crypto
+- 👋 Hi, I’m @Efrain188.
+- 👀 I’m interested in Crypto.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on some Alpha crypto projects.
 - 📫 How to reach me ...  
